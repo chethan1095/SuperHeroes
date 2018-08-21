@@ -7,7 +7,7 @@
         "realName": "Vasusena",
         "heroStrength": "Archery",
         "heroNature": "Generousity",
-        "imageUrl": "./app/assets/images/karna.jpg"
+        "imageUrl": "http://www.kismatconection.com/blog/wp-content/uploads/2017/03/karna.jpg"
     },
     {
         "heroId": 2,
@@ -15,7 +15,7 @@
         "realName": "Steven Rogers",
         "heroStrength": "Shield",
         "heroNature": "Confident",
-        "imageUrl": "./app/assets/images/cap.jpg"
+        "imageUrl": "https://s2.r29static.com//bin/entry/881/0,1,2000,1500/x,80/1588304/image.jpg"
     },
     {
          "heroId": 3,
@@ -23,7 +23,7 @@
         "realName": "Tony Stark",
         "heroStrength": "Suit and Jarvis",
         "heroNature": "Stylish",
-        "imageUrl": "./app/assets/images/IronMan.jpg"
+        "imageUrl": "https://www.sideshowtoy.com/assets/products/400310-iron-man-mark-iii/lg/marvel-iron-man-mark-3-life-size-figure-400310-03.jpg"
     },
     {
           "heroId": 4,
@@ -31,7 +31,7 @@
         "realName": "Thor",
         "heroStrength": "Hammer",
         "heroNature": "Confused",
-        "imageUrl": "./app/assets/images/thor.jpg"
+        "imageUrl": "https://cdn-images-1.medium.com/max/1113/1*oOtRtHpzYfx7UbnMttFCNg.png"
     },
     {
         "heroId": 5,
@@ -39,7 +39,7 @@
         "realName": "Bruce Banner",
         "heroStrength": "Size",
         "heroNature": "Angry",
-        "imageUrl": "./app/assets/images/hulk.jpg"
+        "imageUrl": "https://i.ytimg.com/vi/hQMtZL7y18U/maxresdefault.jpg"
     },
     {
         "heroId": 6,
@@ -47,7 +47,7 @@
         "realName": "Agent Romanoff ",
         "heroStrength": "Mind Games",
         "heroNature": "Smart",
-        "imageUrl": "./app/assets/images/blackwidow.jpg"
+        "imageUrl": "https://nerdist.com/wp-content/uploads/2018/01/Black-Widow-Featured-011018.jpg"
     },
      {
         "heroId": 7,
@@ -55,7 +55,7 @@
         "realName": "Nick Fury",
         "heroStrength": "Nothing",
         "heroNature": "Serious",
-        "imageUrl": "./app/assets/images/fury.jpg"
+        "imageUrl": "https://s-media-cache-ak0.pinimg.com/originals/dc/e2/50/dce25023182a731c54719599700a4380.jpg"
     },
 	  {
         "heroId": 8,
@@ -63,7 +63,7 @@
         "realName": " Jeremy Renner ",
         "heroStrength": "martial artist",
         "heroNature": "tactician ",
-        "imageUrl": "./app/assets/images/clint.jpg"
+        "imageUrl": "https://medias.spotern.com/spots/w640/64856-1532336916.jpg"
     },
 	  {
         "heroId": 9,
@@ -71,7 +71,7 @@
         "realName": "  Loki Odinson ",
         "heroStrength": " Superhuman strength",
         "heroNature": "Longevity ",
-        "imageUrl": "./app/assets/images/Ragnarok.jpg"
+        "imageUrl": "https://c1.staticflickr.com/8/7133/7073627957_252f33f1a8_b.jpg"
     },
 	   {
         "heroId": 10,
@@ -79,7 +79,7 @@
         "realName": "Virginia Hogan ",
         "heroStrength": " Coast Guard",
         "heroNature": "Rescue ",
-        "imageUrl": "./app/assets/images/F_153752.jpg"
+        "imageUrl": "https://www.quirkybyte.com/wp-content/uploads/2017/01/pepper_potts_iron_man_3-wide.jpg"
     }
 ]
 }
